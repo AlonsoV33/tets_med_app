@@ -1,23 +1,12 @@
-# Front-End Capstone project
+# Front-End Project:
 
-A brief description of what this project does and who it's for 
+Descripción breve StayHealth es una plataforma web diseñada para facilitar el acceso a servicios médicos en comunidades de difícil acceso. Está pensada para pacientes que necesitan encontrar doctores disponibles y recibir atención médica sin salir de casa.
 
-StayHealthy conducted an extensive survey to assess the medical facilities available in remote areas and found that several patients have a tough time finding the right doctor at the right time. 
+# Requisitos del Proyecto
 
-# Project Requirements
-A user-friendly, intuitive, and accessible platform that helps connect patients with doctors and specialists for consultations and medical prescriptions
+Una plataforma amigable, accesible e intuitiva que permita a los pacientes:
 
-# Features
-    Medical appointments online  
-    Doctor listing for patients
-    Consultation Feedback
-    Profile Management
-    Access to patient records
-    News feeds and Training
-    Navigation
-    Website Administration
-
-
+Conectarse con médicos y especialistas disponibles. Agendar citas y recibir recetas médicas. Acceder a su historial clínico y dar seguimiento a tratamientos.
 
 
 
